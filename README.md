@@ -1,4 +1,4 @@
-# Career Pathway Analyzer
+# SkillBridge-FullStack
 
 A full-stack application for skill-gap analysis, career roadmap generation, and tech news integration.
 
