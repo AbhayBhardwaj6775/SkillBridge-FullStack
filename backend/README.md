@@ -27,6 +27,6 @@ The server will run on `http://localhost:5000` (or PORT from environment variabl
 - `GET /api/news` - Fetch latest tech news from HackerNews
 - `GET /health` - Health check
 
-See main README.md for detailed API documentation.
+
 
 
